@@ -7,3 +7,5 @@ This is where code samples will go for various exercises (or at least a link to 
 ![Alt text](/path/to/img.jpg)
 
 ![Alt text](/path/to/img.jpg "Optional title")
+
+http://creativecommons.org/licenses/by-nc-sa/4.0/
