@@ -8,7 +8,4 @@ The programming language used in this textbook is [Processing](http://www.proces
 
 
 
-![Alt text](/path/to/img.jpg)
-
-![Alt text](/path/to/img.jpg "Optional title")
 
