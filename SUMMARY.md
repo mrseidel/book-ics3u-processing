@@ -9,4 +9,5 @@
 * [Programming Concepts](programming_concepts.md)
 * [Software Development](software_development.md)
 * [Appendix A - Assignments](appendix_a_-_assignments.md)
+* Appendix B - Code Samples
 
