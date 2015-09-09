@@ -1,3 +1,3 @@
 # Exploring Computer Science
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+This chapter will focus on emerging tech (d2.1), collaborative research (d2.2), and areas of research (d2.3)
