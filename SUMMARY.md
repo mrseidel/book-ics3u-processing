@@ -8,4 +8,5 @@
 * [Post-Secondary](post-secondary.md)
 * [Programming Concepts](programming_concepts.md)
 * [Software Development](software_development.md)
+* Appendix A - Assignments
 
