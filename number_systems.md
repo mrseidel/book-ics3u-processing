@@ -1,3 +1,3 @@
 # Number Systems
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+This chapter will focus specifically on binary, octal, hex, ASCII, Unicode, etc. (a1.2)
