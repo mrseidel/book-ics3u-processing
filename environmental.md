@@ -1,3 +1,3 @@
 # Environmental
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+This chapter will focus on the environmental impact of computers on society and the environment (d1.1, d1.2, d1.3, d1.4).
