@@ -6,6 +6,5 @@
 * [Environmental](chapter3.md)
 * [Exploring Computer Science](chapter4.md)
 * [Post-Secondary](chapter5.md)
-* Programming Concepts
-* Software Development
+* [Programming Concepts](programming_concepts.md)
 
