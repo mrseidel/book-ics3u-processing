@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Computer Hardware](chapter1.md)
-* [Number Systems](chapter2.md)
+* [Number Systems](number_systems)
 * [Environmental](environmental.md)
 * [Exploring Computer Science](exploringcomputer_science.md)
 * [Post-Secondary](post-secondary.md)
