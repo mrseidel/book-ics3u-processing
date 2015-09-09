@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Computer Hardware](computerhardware)
+* [Computer Hardware](computer_hardware.md)
 * [Number Systems](number_systems.md)
 * [Environmental](environmental.md)
 * [Exploring Computer Science](exploringcomputer_science.md)
