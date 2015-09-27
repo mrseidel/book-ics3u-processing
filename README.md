@@ -12,3 +12,6 @@ The programming language used in this textbook is [Processing](http://www.proces
 [All code samples included in this text are licensed under the GPL Version 3 License](http://www.gnu.org/licenses/gpl.html)*
 
 
+*[![Alt Text](./img/freecontent_logo.png "Free Cultural Works")](http://freedomdefined.org/Definition)<br/>
+[All licensing herein falls under Freedom Cultural Works](http://freedomdefined.org/Definition)*
+
