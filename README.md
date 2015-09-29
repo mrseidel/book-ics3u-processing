@@ -1,4 +1,4 @@
-ICS3U Textbook Using Processing
+Introduction to Computer Science Using Processing
 =======
 
 This textbook is aimed at the Introduction to Computer Science course (ICS3U), based on the [Ontario Computer Studies Curriculum](https://www.edu.gov.on.ca/eng/curriculum/secondary/computer10to12_2008.pdf).
