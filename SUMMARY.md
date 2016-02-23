@@ -4,7 +4,7 @@
 * [Computer Hardware](Other Topics/computer_hardware.md)
 * [Number Systems](Other Topics/number_systems.md)
 * [Environmental](Other Topics/environmental.md)
-* [Exploring Computer Science](exploringcomputer_science.md)
+* [Exploring Computer Science](Other Topics/exploringcomputer_science.md)
 * [Post-Secondary](post-secondary.md)
 * [Programming Concepts](programming_concepts.md)
 * [Software Development](software_development.md)
