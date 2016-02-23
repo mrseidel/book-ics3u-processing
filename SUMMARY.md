@@ -11,8 +11,8 @@
    * [Flowcharting](Other Topics/flowcharting.md)
 * [Programming](programming.md)
    * Compiled Languages
-       * Python
        * Processing
+       * Python
        * C/C++
        * C#
    * Web-based Languages
