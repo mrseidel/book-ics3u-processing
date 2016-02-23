@@ -8,7 +8,7 @@
 * [Post-Secondary](Other Topics/post-secondary.md)
 * [Programming Concepts](programming_concepts.md)
 * [Software Development](software_development.md)
-   * SDLC
+   * [SDLC](Other Topics/sdlc.md)
    * Processing
    * [Flowcharting](Other Topics/flowcharting.md)
 * [Appendix A - Assignments](appendix_a_-_assignments.md)
