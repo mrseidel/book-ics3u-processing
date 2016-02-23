@@ -12,10 +12,10 @@
 * [Programming](programming.md)
    * C/C++
    * C#
+   * HTML/CSS
    * LUA
    * Processing
    * Python
-   * HTML/CSS
    * PHP
    * Perl
    * JavaScript
