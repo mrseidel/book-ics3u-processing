@@ -6,7 +6,6 @@
 * [Environmental](Other Topics/environmental.md)
 * [Exploring Computer Science](Other Topics/exploringcomputer_science.md)
 * [Post-Secondary](Other Topics/post-secondary.md)
-* [Programming Concepts](programming_concepts.md)
 * [Software Development](software_development.md)
    * [SDLC](Other Topics/sdlc.md)
    * [Flowcharting](Other Topics/flowcharting.md)
