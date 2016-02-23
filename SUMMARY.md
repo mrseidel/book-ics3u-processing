@@ -13,6 +13,7 @@
    * JavaScript
    * Perl
    * Web-based Languages
+   * Compiled Languages
 * [Appendix A - Assignments](appendix_a_-_assignments.md)
 * [Appendix B - Code Samples](appendix_b_-_code_samples.md)
 
