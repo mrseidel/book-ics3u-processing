@@ -11,7 +11,6 @@
    * [Flowcharting](Other Topics/flowcharting.md)
 * [Programming](programming.md)
    * JavaScript
-   * LUA
    * Perl
    * Web-based Languages
 * [Appendix A - Assignments](appendix_a_-_assignments.md)
