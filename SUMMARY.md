@@ -5,7 +5,7 @@
 * [Number Systems](Other Topics/number_systems.md)
 * [Environmental](Other Topics/environmental.md)
 * [Exploring Computer Science](Other Topics/exploringcomputer_science.md)
-* [Post-Secondary](post-secondary.md)
+* [Post-Secondary](Other Topics/post-secondary.md)
 * [Programming Concepts](programming_concepts.md)
 * [Software Development](software_development.md)
    * Processing
