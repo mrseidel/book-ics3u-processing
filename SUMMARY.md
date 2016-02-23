@@ -10,7 +10,6 @@
    * [SDLC](Other Topics/sdlc.md)
    * [Flowcharting](Other Topics/flowcharting.md)
 * [Programming](programming.md)
-   * JavaScript
    * Web-based Languages
    * Compiled Languages
 * [Appendix A - Assignments](appendix_a_-_assignments.md)
