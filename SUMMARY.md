@@ -9,7 +9,7 @@
 * [Software Development](software_development.md)
    * [SDLC](Other Topics/sdlc.md)
    * [Flowcharting](Other Topics/flowcharting.md)
+* [Programming](programming.md)
 * [Appendix A - Assignments](appendix_a_-_assignments.md)
 * [Appendix B - Code Samples](appendix_b_-_code_samples.md)
-* [Programming](programming.md)
 
