@@ -10,11 +10,6 @@
    * [SDLC](Other Topics/sdlc.md)
    * [Flowcharting](Other Topics/flowcharting.md)
 * [Programming](programming.md)
-   * Compiled Languages
-       * Processing
-       * Python
-       * C/C++
-       * C#
    * Web-based Languages
 * [Appendix A - Assignments](appendix_a_-_assignments.md)
 * [Appendix B - Code Samples](appendix_b_-_code_samples.md)
