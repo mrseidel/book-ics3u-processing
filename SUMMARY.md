@@ -13,12 +13,12 @@
    * C/C++
    * C#
    * HTML/CSS
+   * JavaScript
    * LUA
    * Perl
    * PHP
    * Processing
    * Python
-   * JavaScript
 * [Appendix A - Assignments](appendix_a_-_assignments.md)
 * [Appendix B - Code Samples](appendix_b_-_code_samples.md)
 
