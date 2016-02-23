@@ -9,8 +9,8 @@
 * [Programming Concepts](programming_concepts.md)
 * [Software Development](software_development.md)
    * [SDLC](Other Topics/sdlc.md)
-   * Processing
    * [Flowcharting](Other Topics/flowcharting.md)
+   * Processing
 * [Appendix A - Assignments](appendix_a_-_assignments.md)
 * [Appendix B - Code Samples](appendix_b_-_code_samples.md)
 
