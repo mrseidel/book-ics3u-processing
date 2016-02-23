@@ -10,7 +10,6 @@
    * [SDLC](Other Topics/sdlc.md)
    * [Flowcharting](Other Topics/flowcharting.md)
 * [Programming](programming.md)
-   * C#
    * HTML/CSS
    * JavaScript
    * LUA
