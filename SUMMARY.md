@@ -14,9 +14,9 @@
    * C#
    * HTML/CSS
    * LUA
+   * PHP
    * Processing
    * Python
-   * PHP
    * Perl
    * JavaScript
 * [Appendix A - Assignments](appendix_a_-_assignments.md)
